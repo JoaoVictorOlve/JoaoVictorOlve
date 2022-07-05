@@ -1,12 +1,9 @@
 ### Olá! Sou João Victor de Oliveira ✌
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-de-oliveira-074860237/)
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/joaovic.olve/)
 
 ![Joao Github stats](https://github-readme-stats.vercel.app/api?username=JoaoVictorOlve&theme=dracula)
 
-## Tecnologias que utilizo atualmente
+## Tecnologias que utilizo atualmente 
 
 <div style="display: inline_block">
  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -18,8 +15,9 @@ Amante da tecnologia, estudo programação e tenho como objetivo ingressar no me
 
 </br>
 
-## Contato:
+## Contato 
 
-- [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-victor-de-oliveira-074860237/)
-- [Instagram](https://www.instagram.com/joaovic.olve/)
-- [Email](mailto:jvoliveira2005@gmail.com)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-de-oliveira-074860237/)
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/joaovic.olve/)
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvoliveira2005@gmail.com)
