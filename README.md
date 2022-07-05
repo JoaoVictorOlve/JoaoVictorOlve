@@ -13,8 +13,6 @@
 
 Amante da tecnologia, estudo programação e tenho como objetivo ingressar no mercado de desenvolvimento.
 
-</br>
-
 ## Contato 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-de-oliveira-074860237/)
