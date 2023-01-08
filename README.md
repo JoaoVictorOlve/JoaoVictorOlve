@@ -2,6 +2,8 @@
 
 
 ![Joao Github stats](https://github-readme-stats.vercel.app/api?username=JoaoVictorOlve&theme=dracula)
+![Joao Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorOlve&&layout=compact&hide=shell&theme=dracula)
+
 
 ## Tecnologias que utilizo atualmente 
 
