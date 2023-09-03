@@ -17,7 +17,11 @@
 <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div> </br>
 
-Amante da tecnologia, estudo programação e tenho como objetivo ingressar no mercado de desenvolvimento.
+- Amante da tecnologia, estudo programação e tenho como objetivo ingressar no mercado de desenvolvimento.
+
+- Participei do programa da Blusoft e da Prefeitura de Blumenau +Devs2Blu, onde desenvolvi programas e APIs em Python, Django e Flask, além de aprender mais sobre o Front-end e sobre bancos de dados PostgreSQL. Também obtive experiência com metodologias ágeis e trabalho em equipe.
+
+- Atualmente estudando Angular e Node.JS, também tenho conhecimento em APIs Spring e MongoDB.
 
 ## Contato 
 
