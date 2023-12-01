@@ -18,7 +18,7 @@
 <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div> </br>
 
-- Amante da tecnologia, atualmente atuo com criação de sistemas, além de criação e manutenção de bots em Python.
+- Amante da tecnologia, atualmente trabalho com criação de sistemas, além de criação e manutenção de bots em Python.
 
 - Participei do programa da Blusoft e da Prefeitura de Blumenau +Devs2Blu, onde desenvolvi programas e APIs em Python, Django e Flask, além de aprender mais sobre o Front-end e sobre bancos de dados PostgreSQL. Também obtive experiência com metodologias ágeis e trabalho em equipe.
 
