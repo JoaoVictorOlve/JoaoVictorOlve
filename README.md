@@ -22,7 +22,7 @@
 
 - Participei do programa da Blusoft e da Prefeitura de Blumenau +Devs2Blu, onde desenvolvi programas e APIs em Python, Django e Flask, além de aprender mais sobre o Front-end e sobre bancos de dados PostgreSQL. Também obtive experiência com metodologias ágeis e trabalho em equipe.
 
-- Atualmente estudando Angular e Node.JS, também tenho conhecimento em APIs Spring e MongoDB.
+- Atualmente estudando Flask, Node.JS e MongoDB.
 
 ## Contato 
 
